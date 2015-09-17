@@ -6,8 +6,7 @@ Characters with name, and gender
 Aldercliffe           notsure         31
 Alexander Graham Bell           male         87
 Bassett           notsure         2
-Bell Telephone Association           male         4
-Beyond Mr. Bell           male         3
+Mr. Bell           male         3
 Both Mr. Fernald           notsure         8
 Brewster           notsure         2
 Charles Williams           male         23
@@ -17,7 +16,7 @@ Even Ted Turner           male         10
 Fernald           male         79
 Fernalds           male         39
 Gardiner Hubbard           male         12
-Grandfather Fernald           female         25
+Grandfather Fernald           male         25
 Hazen           male         78
 Laurie Fernald           male         170
 Lawrence Fernald           male         15
@@ -28,9 +27,11 @@ Stevens           male         24
 Stevens           female         3
 Ted Turner           male         287
 Thomas Watson           male         46
-Those Mr. Bell           male         4
-To Ted Turner           male         8
 Tom Watson           male         28
 Turners           notsure         8
 Wharton           male         62
 William Thompson           male         1
+
+
+Hero of the novel: Ted Turner
+Villian of the novel: Laurie Fernald
